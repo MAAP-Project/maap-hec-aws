@@ -1,4 +1,4 @@
-Container for all HECC team code and documentation.
+Container for all HECC team software, tickets and documentation.
 
 Open source licensing is provided by Apache 2.0. More details on that license is captured here: https://github.com/MAAP-Project/maap-hec-aws/tree/license
 
